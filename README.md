@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">hello, i'm jake! 🤠</h1>
+i am a fullstack software engineer — lorem ipsum dolor sit amet, consectetur adipiscing elit. aenean tincidunt sapien ac libero porttitor finibus. cras id metus non ante egestas ultricies. ut tristique nec urna id bibendum, praesent ante massa; ullamcorper et varius eu.
 
 <!--
-**l-ohman/l-ohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- TODO:
+- 🔭✨🚧 I’m currently working on ...
+- 🌱⏳🤔 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫💬 How to reach me: ...
+- 😄 Pronouns: he/they
+- ⚡🏆🌸 Fun fact: ...
 -->
+
+```
+const basicInfo = {
+	name: "Jake Lohman",
+	portfolio: "{portfolio-link-placeholder}",
+	languages: ["Javascript", "Python"],
+	favoriteTechs: ["Next.js", "React", "PostgreSQL", "Three.js"],
+	currentProjects: ["tusk-d2", "solar-sandbox"]
+};
+```
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=0018DD&background=3F2C5D&stroke=FBD439&ring=FBD439&fire=FBD439&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=C3C3C3)](https://git.io/streak-stats)
+
+contact me here:
+[LinkedIn](https://www.linkedin.com/in/jake-lohman/)
+[email](mailto:jakelohman7@gmail.com)
