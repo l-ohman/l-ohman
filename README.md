@@ -14,15 +14,17 @@ i am a fullstack software engineer — lorem ipsum dolor sit amet, consectetur a
 ```
 const basicInfo = {
 	name: "Jake Lohman",
-	portfolio: "{portfolio-link-placeholder}",
+	portfolio: "https://l-ohman.com/",
 	languages: ["Javascript", "Python"],
 	favoriteTechs: ["Next.js", "React", "PostgreSQL", "Three.js"],
-	currentProjects: ["tusk-d2", "solar-sandbox"]
+	currentProjects: ["solar-sandbox", "tusk-d2"]
 };
 ```
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=0018DD&background=3F2C5D&stroke=FBD439&ring=FBD439&fire=FBD439&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=C3C3C3)](https://git.io/streak-stats)
 
 contact me here:
+
 [LinkedIn](https://www.linkedin.com/in/jake-lohman/)
+
 [email](mailto:jakelohman7@gmail.com)
