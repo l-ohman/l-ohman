@@ -31,7 +31,7 @@
 <a href="https://sequelize.org/"><img alt="Sequelize" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Sequelize.png" width="52" /></a>
 <a href="https://mochajs.org/"><img alt="Mocha" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Mocha.png" width="52" /></a>
 <a href="https://www.chaijs.com/"><img alt="Chai" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Chai.png" width="52" /></a>
-<!-- Express, Three.js -->
+<!-- Express, Three.js, Less -->
 </div>
 
 ### 🚧 technologies i'm currently learning
@@ -45,16 +45,15 @@
 
 |Github Stats|Top Languages|
 |---|---|
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-ohman&theme=slateorange&layout=compact)](https://github.com/l-ohman/github-readme-stats) |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-ohman&theme=slateorange&layout=compact&hide=less&count_private=false)](https://github.com/l-ohman/github-readme-stats) |
 
 <br />
 
 
 ### 📫 contact info
 
-<a href="https://www.linkedin.com/in/jake-lohman/">Let's connect on Linkedin <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Linkedin.png" width="20" alt="Linkedin Logo"/></a>
-
-<a href="mailto:jakelohman7@gmail.com">Email me at jakelohman7@gmail.com <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="20" alt="jakelohman7@gmail.com"/></a>
+* Connect with me on <a href="https://www.linkedin.com/in/jake-lohman/">Linkedin <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Linkedin.png" width="18" alt="Linkedin Logo"/></a>
+* Email me at <a href="mailto:jakelohman7@gmail.com">jakelohman7@gmail.com<img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="18" alt="jakelohman7@gmail.com"/></a>
 
 <!--
  todo:
