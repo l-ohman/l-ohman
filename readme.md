@@ -22,7 +22,7 @@
 
 ### ⚡ languages and tools
 
-<div>
+<p>
 <img alt="Javascript" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Javascript.png" width="45" />
 <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/React.js.png" width="45" /></a>
 <a href="https://redux.js.org/"><img alt="Redux" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Redux.png" width="45" /></a>
@@ -34,21 +34,23 @@
 <a href="https://www.chaijs.com/"><img alt="Chai" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Chai.png" width="45" /></a>
 <!-- <img alt="" src="" width="45" /> -->
 <!-- Express -->
-</div>
+</p>
 
 ### 🚧 technologies i'm currently learning
-<div>
+<p>
 <img alt="Python" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Python.png" width="45" />
 <img alt="Typescript" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Typescript.png" width="45" />
 <!-- <img alt="" src="" width="45" /> -->
 <!-- MongoDB, TensorFlow, Unity -->
-</div>
+</p>
+
+<br />
 
 |Github Stats|Top Languages|
 |---|---|
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-ohman&theme=slateorange&layout=compact)](https://github.com/l-ohman/github-readme-stats) |
 
-<hr width="95%" align="center"/>
+<br />
 
 
 #### 📫 contact me here:
