@@ -1,7 +1,7 @@
 <h1 align="center">hello, i'm jake! 🤠</h1>
 
 * i am a fullstack software developer currently based in texas. my favorite projects to work on are often related to music, mathematics, and/or astronomy; but i also love to work anything that can have a positive impact on the community.
-* i am very passionate about building clean and intuitive user experiences, which i find is surprisingly similar to some of fields i studied before learning to code - architecture and game design.
+* i am very passionate about building clean and intuitive user experiences, which i find is surprisingly similar to two of fields i studied before learning to code - architecture and game design.
 * i am a relatively inexperienced developer, so my main goal at the moment is to learn as much as possible!
 
 <div align="center">
@@ -14,31 +14,32 @@
 </a>
 
 <p>
-  <i>check out my portfolio <a href="https://l-ohman.com/">here 🌱</a></i>
+  <i>check out my portfolio <a href="https://l-ohman.com/">here🌱</a></i>
 </p>
 </div>
 
 <hr />
 
-### ⚡ languages and tools
+<h3 align="center">⚡ my languages and tools ⚡</h3>
 
-<div>
-<img alt="Javascript" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Javascript.png" width="52" />
-<a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/React.js.png" width="52" /></a>
-<a href="https://redux.js.org/"><img alt="Redux" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Redux.png" width="52" /></a>
-<a href="https://nextjs.org/"><img alt="Next.js" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Next.js.png" width="52" /></a>
-<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/PostgreSQL.png" width="52" /></a>
-<a href="https://sequelize.org/"><img alt="Sequelize" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Sequelize.png" width="52" /></a>
-<a href="https://mochajs.org/"><img alt="Mocha" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Mocha.png" width="52" /></a>
-<a href="https://www.chaijs.com/"><img alt="Chai" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Chai.png" width="52" /></a>
-<!-- Express, Three.js, Less -->
+<div align="center">
+	<img alt="Javascript" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Javascript.png" width="52" />
+	<a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/React.js.png" width="52" /></a>
+	<a href="https://redux.js.org/"><img alt="Redux" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Redux.png" width="52" /></a>
+	<a href="https://nextjs.org/"><img alt="Next.js" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Next.js.png" width="52" /></a>
+	<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/PostgreSQL.png" width="52" /></a>
+	<a href="https://sequelize.org/"><img alt="Sequelize" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Sequelize.png" width="52" /></a>
+	<a href="https://mochajs.org/"><img alt="Mocha" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Mocha.png" width="52" /></a>
+	<a href="https://www.chaijs.com/"><img alt="Chai" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Chai.png" width="52" /></a>
+	<!-- Express, Three.js, Less, React-Flow -->
 </div>
 
-### 🚧 technologies i'm currently learning
-<div>
-<img alt="Python" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Python.png" width="52" />
-<img alt="Typescript" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Typescript.png" width="52" />
-<!-- MongoDB, TensorFlow, Unity -->
+<h3 align="center">🚧 technologies i'm currently learning 🚧</h3>
+
+<div align="center">
+	<img alt="Python" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Python.png" width="52" />
+	<img alt="Typescript" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Typescript.png" width="52" />
+	<!-- MongoDB, TensorFlow, Unity -->
 </div>
 
 <br />
@@ -50,10 +51,11 @@
 <br />
 
 
-### 📫 contact info
-
+<h3 align="center">contact info 📫</h3>
+<div align="center">
 * Connect with me on <a href="https://www.linkedin.com/in/jake-lohman/">Linkedin <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Linkedin.png" width="18" alt="Linkedin Logo"/></a>
-* Email me at <a href="mailto:jakelohman7@gmail.com">jakelohman7@gmail.com<img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="18" alt="jakelohman7@gmail.com"/></a>
+* Email me at <a href="mailto:jakelohman7@gmail.com">jakelohman7@gmail.com <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="18" alt="jakelohman7@gmail.com"/></a>
+</div>
 
 <!--
  todo:
