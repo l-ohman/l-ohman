@@ -53,8 +53,8 @@
 
 <h3 align="center">contact info 📫</h3>
 <div align="center">
-* Connect with me on <a href="https://www.linkedin.com/in/jake-lohman/">Linkedin <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Linkedin.png" width="18" alt="Linkedin Logo"/></a>
-* Email me at <a href="mailto:jakelohman7@gmail.com">jakelohman7@gmail.com <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="18" alt="jakelohman7@gmail.com"/></a>
+Connect with me on <a href="https://www.linkedin.com/in/jake-lohman/">Linkedin <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Linkedin.png" width="18" alt="Linkedin Logo"/></a>
+ | Email me at <a href="mailto:jakelohman7@gmail.com">jakelohman7@gmail.com <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="18" alt="jakelohman7@gmail.com"/></a>
 </div>
 
 <!--
