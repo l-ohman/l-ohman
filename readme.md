@@ -1,7 +1,7 @@
 <h1 align="center">hello, i'm jake! 🤠</h1>
 
-* i am a fullstack software developer currently based in texas. my favorite projects to work on are generally related to **music, mathematics, and/or astronomy, but i also love to work anything that can have a positive impact on the community.
-* i am very passionate about building clean and intuitive user experiences, which i find is extremely similar to two fields i studied before learning to code - architecture and game design.
+* i am a fullstack software developer currently based in texas. my favorite projects to work on are often related to music, mathematics, and/or astronomy; but i also love to work anything that can have a positive impact on the community.
+* i am very passionate about building clean and intuitive user experiences, which i find is surprisingly similar to some of fields i studied before learning to code - architecture and game design.
 * i am a relatively inexperienced developer, so my main goal at the moment is to learn as much as possible!
 
 <div align="center">
@@ -18,7 +18,7 @@
 </p>
 </div>
 
-<hr width="95%" align="center"/>
+<hr />
 
 ### ⚡ languages and tools
 
@@ -50,10 +50,11 @@
 <br />
 
 
-#### 📫 contact me here:
+### 📫 contact info
 
-* <a href="https://www.linkedin.com/in/jake-lohman/">Linkedin <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Linkedin.png" width="0.8em" alt="Linkedin Logo"/></a>
-* <a href="mailto:jakelohman7@gmail.com">jakelohman7@gmail.com <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="0.8em" alt="jakelohman7@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/jake-lohman/">Let's connect on Linkedin <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Linkedin.png" width="20" alt="Linkedin Logo"/></a>
+
+<a href="mailto:jakelohman7@gmail.com">Email me at jakelohman7@gmail.com <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="20" alt="jakelohman7@gmail.com"/></a>
 
 <!--
  todo:
