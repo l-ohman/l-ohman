@@ -23,10 +23,10 @@ const basicInfo = {
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=0018DD&background=3F2C5D&stroke=FBD439&ring=FBD439&fire=FBD439&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=C3C3C3)](https://git.io/streak-stats)
 
-[![Linkedin Badge]("/icons/Linkedin.png")](https://www.linkedin.com/in/jake-lohman/)
+[![Linkedin Badge](https://img.shields.io/badge/-jake-lohman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jake-lohman/)](https://www.linkedin.com/in/jake-lohman/)
 
 contact me here:
 
-[LinkedIn]()
+
 
 [email](mailto:jakelohman7@gmail.com)
