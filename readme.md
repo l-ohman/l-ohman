@@ -31,7 +31,7 @@
 	<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/PostgreSQL.png" width="52" /></a>
 	<a href="https://sequelize.org/"><img alt="Sequelize" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Sequelize.png" width="52" /></a>
 	<a href="https://mochajs.org/"><img alt="Mocha" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Mocha.png" width="52" /></a>
-	<a href="https://www.chaijs.com/"><img alt="Chai" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Chai.png" width="52" /></a>
+	<!--<a href="https://www.chaijs.com/"><img alt="Chai" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Chai.png" width="52" /></a>-->
 	<a href="https://lesscss.org/"><img alt="Less (CSS Library)" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Less.png" width="52" /></a>
 	<a href="https://threejs.org/"><img alt="Three JS" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Three.png" width="52" /></a>
 	<!-- React-Flow -->
@@ -41,16 +41,17 @@
 
 <div align="center">
 	<img alt="Python" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Python.png" width="52" />
-	<a href="https://www.mongodb.com/home"><img alt="MongoDB" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/MongoDB.png" width="52" /></a>
+	<!--<a href="https://www.mongodb.com/home"><img alt="MongoDB" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/MongoDB.png" width="52" /></a>-->
+	<a href="https://www.djangoproject.com/"><img alt="Django" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Django.png" width="52" /></a>
 	<img alt="Typescript" src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Typescript.png" width="52" />
 	<!-- TensorFlow, Unity -->
 </div>
 
 <br />
 
-|Github Stats|Top Languages|
+<!--|Github Stats|Top Languages|
 |---|---|
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-ohman&theme=slateorange&layout=compact&hide=less&count_private=false)](https://github.com/l-ohman/github-readme-stats) |
+| -->[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527)](https://git.io/streak-stats)<!-- | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-ohman&theme=slateorange&layout=compact&hide=less&count_private=false)](https://github.com/l-ohman/github-readme-stats) |-->
 
 <br />
 
