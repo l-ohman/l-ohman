@@ -58,15 +58,15 @@
 ## Latest projects
 
 <div>
-	<img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=cadenforrest&repo=DotaLeagueSite" alt="Umami Meats card" />
-	<img height="150px" src="https://readmestats.999857.xyz/api/pin/?username=l-ohman&repo=nyt-crossword-clue-hider" alt="NYT Crossword Clue Hider Card" />
+	<img height="150px" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=cadenforrest&repo=DotaLeagueSite" alt="Umami Meats card" />
+	<img height="150px" width="49%" src="https://readmestats.999857.xyz/api/pin/?username=l-ohman&repo=nyt-crossword-clue-hider" alt="NYT Crossword Clue Hider Card" />
 </div>
 
 ---
 
 <a href="https://www.l-ohman.com">
-<img height=180 src="http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-ohman&theme=slateorange&layout=compact&hide=less&hide_border=true"/>
+<img height=180 width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height=180 width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-ohman&theme=slateorange&layout=compact&hide=less&hide_border=true"/>
 </a>
 
 <!-- Should do a custom deployment eventually for the top-langs to see DotaLeagueSite -->
