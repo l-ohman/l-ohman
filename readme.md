@@ -37,6 +37,7 @@
 	<img src="https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux&logoColor=mediumorchid" alt="Redux badge"/>
 	<img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=nextdotjs" alt="Nextjs badge"/>
 	<img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs" alt="Nodejs badge"/>
+	<img src="https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack" alt="Webpack badge"/>
 	<img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express" alt="Express badge"/>
 	<img src="https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=threedotjs" alt="Threejs badge"/>
 	<img src="https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui" alt="MUI badge"/>
@@ -58,8 +59,8 @@
 ## Latest projects
 
 <div>
-	<img height="150px" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=cadenforrest&repo=DotaLeagueSite" alt="Umami Meats card" />
-	<img height="150px" width="49%" src="https://readmestats.999857.xyz/api/pin/?username=l-ohman&repo=nyt-crossword-clue-hider" alt="NYT Crossword Clue Hider Card" />
+	<img height="150px" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=cadenforrest&repo=DotaLeagueSite" alt="Dota League Site card" />
+	<img height="150px" width="49%" src="https://readmestats.999857.xyz/api/pin/?username=l-ohman&repo=solar-sandbox" alt="Solar Sandbox Card" />
 </div>
 
 ---
