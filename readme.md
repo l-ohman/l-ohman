@@ -46,10 +46,8 @@
 ### What I'm currently learning <!-- Godot, Django -->
 
 <div>
-	<img src="https://img.shields.io/badge/java-black?style=for-the-badge" alt="Java badge"/>
-	<img src="https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte" alt="Svelte badge"/>
+	<img src="https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby&logoColor=red" alt="Ruby badge"/>
 	<img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma" alt="Figma badge"/>
-	<img src="https://img.shields.io/badge/playwright-black?style=for-the-badge&logo=playwright" alt="Playwright badge"/>
 	<img src="https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql&logoColor=magenta" alt="GraphQL badge"/>
 	<img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker badge"/>
 </div>
