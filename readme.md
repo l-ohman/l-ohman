@@ -1,20 +1,18 @@
-<h1 align="center"> hello, i'm jake! 🤠</h1>
+# hi, i'm jake! 🤠
 
-<div align="center">
-	<a href="https://www.linkedin.com/in/jake-lohman/">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
-	</a>
-	<a href="mailto:jakelohman7@gmail.com">
-		<img src="https://img.shields.io/badge/Email-whitesmoke?style=for-the-badge&logo=gmail"  alt="Email badge"/>
-	</a>
-	<a href="https://l-ohman.com/">
-	    <img src="https://img.shields.io/badge/🌱 portfolio-rosybrown?style=for-the-badge" alt="Portfolio badge"/>
-	</a>
-</div>
-<!-- Stackoverflow card
-<a href="https://stackoverflow.com/users/22109722/l-ohman">
-	<img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="StackOverflow badge"/>
-</a>-->
+I am a fullstack developer currently based in Texas. I'm very passionate about building accessible and maintainable software, and I especially enjoy working on projects related to art, math, and video games. Currently I am looking for full-time employment—feel free to reach out if you think I'd be a good fit for your company. _(And yes, I am open to relocation!)_
+
+To contact me or take a more in-depth look at my projects, check the links below: 
+
+<a href="https://www.linkedin.com/in/jake-lohman/">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+</a>
+<a href="mailto:jakelohman7@gmail.com">
+	<img src="https://img.shields.io/badge/Email-whitesmoke?style=for-the-badge&logo=gmail" alt="Email badge"/>
+</a>
+<a href="https://l-ohman.com/">
+    <img src="https://img.shields.io/badge/🌱 portfolio-rosybrown?style=for-the-badge" alt="Portfolio badge"/>
+</a>
 
 ---
 
@@ -43,13 +41,14 @@
 	<img src="https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui" alt="MUI badge"/>
  </div>
 
-### What I'm currently learning <!-- Godot, Django -->
+### What I'm currently learning
 
 <div>
-	<img src="https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby&logoColor=red" alt="Ruby badge"/>
+	<!-- <img src="https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby&logoColor=red" alt="Ruby badge"/> -->
+	<img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django" alt="Django badge"/>
+	<img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker badge"/>
 	<img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma" alt="Figma badge"/>
 	<img src="https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql&logoColor=magenta" alt="GraphQL badge"/>
-	<img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker badge"/>
 </div>
 
 ---
@@ -63,7 +62,6 @@
 
 ---
 
-<h3 align="center">Contact Info 📫</h3>
-<div align="center">
+### Contact Info 📫
+
 Email me at <a href="mailto:jakelohman7@gmail.com">jakelohman7@gmail.com <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="18" alt="jakelohman7@gmail.com"/></a> or connect with me on <a href="https://www.linkedin.com/in/jake-lohman/">Linkedin <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Linkedin.png" width="18" alt="Linkedin Logo"/></a>
-</div>
