@@ -1,6 +1,6 @@
 # hi, i'm jake! 🤠
 
-I am a fullstack developer currently based in Texas. I'm very passionate about building accessible and maintainable software, and I especially enjoy working on projects related to art, math, and video games. Currently I am looking for full-time employment—feel free to reach out if you think I'd be a good fit for your company. _(And yes, I am open to relocation!)_
+I am a fullstack developer currently based in Texas. I'm very passionate about building accessible and maintainable software, and I especially enjoy working on projects related to geography, music, and video games. Currently I am looking for full-time employment—feel free to reach out if you think I'd be a good fit for your company. _(And yes, I am open to relocation!)_
 
 To contact me or take a more in-depth look at my projects, check the links below: 
 
@@ -43,8 +43,11 @@ To contact me or take a more in-depth look at my projects, check the links below
 
 ### What I'm currently learning
 
+<!-- List of all badges: https://simpleicons.org/ -->
 <div>
-	<!-- <img src="https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby&logoColor=red" alt="Ruby badge"/> -->
+	<img src="https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby&logoColor=red" alt="Ruby badge"/>
+	<img src="https://img.shields.io/badge/rails-black?style=for-the-badge&logo=rubyonrails&logoColor=red" alt="Rails badge"/>
+        <!-- <img src="https://img.shields.io/badge/java-black?style=for-the-badge" alt="Java badge"/> -->
 	<img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django" alt="Django badge"/>
 	<img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker badge"/>
 	<img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma" alt="Figma badge"/>
