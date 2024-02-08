@@ -57,7 +57,7 @@ To contact me or take a more in-depth look at my projects, check the links below
 ---
 
 <a href="https://www.l-ohman.com">
-<img height=180 width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height=180 width="49%" src="https://github-readme-streak-stats-pi-sand.vercel.app/?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height=180 width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-ohman&theme=slateorange&layout=compact&hide=less&hide_border=true"/>
 </a>
 
