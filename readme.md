@@ -2,7 +2,7 @@
 
 I am a fullstack developer currently based in Texas. I'm very passionate about building accessible and maintainable software, and I especially enjoy working on projects related to geography, music, and video games. Currently I am looking for full-time employment—feel free to reach out if you think I'd be a good fit for your company. _(And yes, I am open to relocation!)_
 
-To contact me or take a more in-depth look at my projects, check the links below: 
+To contact me or take a more in-depth look at my projects, check the links below:
 
 <a href="https://www.linkedin.com/in/jake-lohman/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
@@ -17,6 +17,7 @@ To contact me or take a more in-depth look at my projects, check the links below
 ---
 
 ### Languages I know
+
 <div>
 	<img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="Typescript badge"/>
 	<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="Javascript badge"/>
@@ -58,7 +59,7 @@ To contact me or take a more in-depth look at my projects, check the links below
 
 <a href="https://www.l-ohman.com">
 <img height=180 width="49%" src="https://github-readme-streak-stats-pi-sand.vercel.app/?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height=180 width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-ohman&theme=slateorange&layout=compact&hide=less&hide_border=true"/>
+<img height=180 width="49%" src="https://github-readme-stats-seven-orpin-50.vercel.app/api/top-langs?username=l-ohman&theme=slateorange&layout=compact&hide=less,php,gdscript&hide_border=true&langs_count=4"/>
 </a>
 
 <!-- Should do a custom deployment eventually for the top-langs to see DotaLeagueSite -->
