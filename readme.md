@@ -1,6 +1,6 @@
 # hi, i'm jake! 🤠
 
-I am a fullstack developer currently based in Texas. I'm very passionate about building accessible and maintainable software, and I especially enjoy working on projects related to geography, music, and video games. Currently I am looking for full-time employment—feel free to reach out if you think I'd be a good fit for your company. _(And yes, I am open to relocation!)_
+I am a Fullstack Developer based in Texas. I'm very passionate about building accessible and maintainable software, and I especially enjoy working on projects related to geography, music, and video games. Currently I am working at the Human-AI Interaction lab at UT Austin, building sites to showcase ongoing and completed research projects.
 
 To contact me or take a more in-depth look at my projects, check the links below:
 
@@ -15,6 +15,8 @@ To contact me or take a more in-depth look at my projects, check the links below
 </a>
 
 ---
+
+<!-- List of all badges: https://simpleicons.org/ -->
 
 ### Languages I know
 
@@ -42,27 +44,22 @@ To contact me or take a more in-depth look at my projects, check the links below
 	<img src="https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui" alt="MUI badge"/>
  </div>
 
-### What I'm currently learning
-
-<!-- List of all badges: https://simpleicons.org/ -->
+<!-- ### What I'm currently learning
 <div>
 	<img src="https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby&logoColor=red" alt="Ruby badge"/>
 	<img src="https://img.shields.io/badge/rails-black?style=for-the-badge&logo=rubyonrails&logoColor=red" alt="Rails badge"/>
-        <!-- <img src="https://img.shields.io/badge/java-black?style=for-the-badge" alt="Java badge"/> -->
 	<img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django" alt="Django badge"/>
 	<img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker badge"/>
 	<img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma" alt="Figma badge"/>
 	<img src="https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql&logoColor=magenta" alt="GraphQL badge"/>
-</div>
+</div> -->
 
----
+<!-- ---
 
 <a href="https://www.l-ohman.com">
 <img height=180 width="49%" src="https://github-readme-streak-stats-pi-sand.vercel.app/?user=l-ohman&theme=dark&background=36393F&ring=F9A527&fire=F9A527&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height=180 width="49%" src="https://github-readme-stats-seven-orpin-50.vercel.app/api/top-langs?username=l-ohman&theme=slateorange&layout=compact&hide=less,php,gdscript&hide_border=true&langs_count=4"/>
-</a>
-
-<!-- Should do a custom deployment eventually for the top-langs to see DotaLeagueSite -->
+</a> -->
 
 ---
 
