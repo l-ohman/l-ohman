@@ -1,9 +1,5 @@
 # hi, i'm jake! 🤠
 
-I am a Fullstack Developer based in Texas. I'm very passionate about building accessible and maintainable software, and I especially enjoy working on projects related to geography, music, and video games. Currently I am working at the Human-AI Interaction lab at UT Austin, building sites to showcase ongoing and completed research projects.
-
-To contact me or take a more in-depth look at my projects, check the links below:
-
 <a href="https://www.linkedin.com/in/jake-lohman/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
 </a>
