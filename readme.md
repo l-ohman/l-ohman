@@ -6,9 +6,9 @@
 <a href="mailto:jakelohman7@gmail.com">
 	<img src="https://img.shields.io/badge/Email-whitesmoke?style=for-the-badge&logo=gmail" alt="Email badge"/>
 </a>
-<a href="https://l-ohman.com/">
+<!-- <a href="https://l-ohman.com/">
     <img src="https://img.shields.io/badge/🌱 portfolio-rosybrown?style=for-the-badge" alt="Portfolio badge"/>
-</a>
+</a> -->
 
 ---
 
@@ -57,8 +57,8 @@
 <img height=180 width="49%" src="https://github-readme-stats-seven-orpin-50.vercel.app/api/top-langs?username=l-ohman&theme=slateorange&layout=compact&hide=less,php,gdscript&hide_border=true&langs_count=4"/>
 </a> -->
 
----
+<!-- ---
 
 ### Contact Info 📫
 
-Email me at <a href="mailto:jakelohman7@gmail.com">jakelohman7@gmail.com <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="18" alt="jakelohman7@gmail.com"/></a> or connect with me on <a href="https://www.linkedin.com/in/jake-lohman/">Linkedin <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Linkedin.png" width="18" alt="Linkedin Logo"/></a>
+Email me at <a href="mailto:jakelohman7@gmail.com">jakelohman7@gmail.com <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Email.png" width="18" alt="jakelohman7@gmail.com"/></a> or connect with me on <a href="https://www.linkedin.com/in/jake-lohman/">Linkedin <img src="https://raw.githubusercontent.com/l-ohman/l-ohman/main/icons/Linkedin.png" width="18" alt="Linkedin Logo"/></a> -->
